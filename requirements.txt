@@ -1,0 +1,5 @@
+selenium==4.8.2
+selenium-stealth==1.0.6
+webdriver-manager==4.0.0
+pyinstaller==5.8.0
+PySimpleGUI==4.60.5
